@@ -1,8 +1,0 @@
-gradio
-google-generativeai
-python-dotenv
-gunicorn
-tensorflow-cpu==2.10.0
-protobuf>=3.9.2,<3.20
-numpy>=1.19.2,<1.24
-gdown
